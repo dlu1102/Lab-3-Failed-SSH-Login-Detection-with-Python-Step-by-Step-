@@ -94,6 +94,8 @@ print(f"🥇 Top sources (IP, attempts): {top_failed}")
     - ✅ Successful logins: 2
     - 🌍 Unique attacker IPs: ['192.168.1.10', '192.168.1.11', '192.168.1.13', '192.168.1.14', '192.168.1.20']
     - 🥇 Top sources (IP, attempts): [('192.168.1.10', 4), ('192.168.1.11', 2), ('192.168.1.13', 2), ('192.168.1.14', 1), ('192.168.1.20', 1)]
+    - Screenshot **<img width="1920" height="1080" alt="lab 3 python output" src="https://github.com/user-attachments/assets/bcc8d907-3730-4d5e-92aa-2788569f4c9e" />**
+
 
 5. **Lessons Learned**
     - Troubleshooting builds transferable skills – Path errors, regex mistakes, and parsing logic all mirrored real-world SOC analyst challenges where logs don’t behave as expected.
