@@ -24,18 +24,20 @@ This lab focused on troubleshooting real coding challenges (file paths, parsing 
    2. Paste the lines below exactly as shown
    3. Save the file as fake_log_python.txt (in downloads folder)
   
-- Jan 14 10:15:32 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53422 ssh2
-- Jan 14 10:15:35 kali sshd[12345]: Failed password for invalid user guest from 192.168.1.11 port 53425 ssh2
-- Jan 14 10:15:40 kali sshd[12345]: Accepted password for valid user test from 192.168.1.12 port 53430 ssh2
-- Jan 14 10:16:05 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53478 ssh2
-- Jan 14 10:16:19 kali sshd[12345]: Failed password for invalid user root from 192.168.1.13 port 53491 ssh2
-- Jan 14 10:16:33 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53504 ssh2
-- Jan 14 10:16:49 kali sshd[12345]: Failed password for invalid user guest from 192.168.1.11 port 53520 ssh2
-- Jan 14 10:17:02 kali sshd[12345]: Failed password for invalid user demo from 192.168.1.14 port 53533 ssh2
-- Jan 14 10:17:15 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53546 ssh2
-- Jan 14 10:17:27 kali sshd[12345]: Accepted password for valid user test from 192.168.1.12 port 53558 ssh2
-- Jan 14 10:17:40 kali sshd[12345]: Failed password for invalid user root from 192.168.1.13 port 53571 ssh2
-- Jan 14 10:17:55 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.20 port 53586 ssh2
+```
+ Jan 14 10:15:32 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53422 ssh2
+ Jan 14 10:15:35 kali sshd[12345]: Failed password for invalid user guest from 192.168.1.11 port 53425 ssh2
+ Jan 14 10:15:40 kali sshd[12345]: Accepted password for valid user test from 192.168.1.12 port 53430 ssh2
+ Jan 14 10:16:05 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53478 ssh2
+ Jan 14 10:16:19 kali sshd[12345]: Failed password for invalid user root from 192.168.1.13 port 53491 ssh2
+ Jan 14 10:16:33 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53504 ssh2
+ Jan 14 10:16:49 kali sshd[12345]: Failed password for invalid user guest from 192.168.1.11 port 53520 ssh2
+ Jan 14 10:17:02 kali sshd[12345]: Failed password for invalid user demo from 192.168.1.14 port 53533 ssh2
+ Jan 14 10:17:15 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.10 port 53546 ssh2
+ Jan 14 10:17:27 kali sshd[12345]: Accepted password for valid user test from 192.168.1.12 port 53558 ssh2
+ Jan 14 10:17:40 kali sshd[12345]: Failed password for invalid user root from 192.168.1.13 port 53571 ssh2
+ Jan 14 10:17:55 kali sshd[12345]: Failed password for invalid user admin from 192.168.1.20 port 53586 ssh2
+```
 
   This file has 10 failed and 2 successful logins across several IPs.
 
