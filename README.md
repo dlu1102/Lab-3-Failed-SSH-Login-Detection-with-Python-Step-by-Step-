@@ -1,4 +1,4 @@
-# Home Lab Project #3 – Failed SSH Login Detection with Python
+# Home Lab #3 – Failed SSH Login Detection with Python
 
 ## 📌 Objective
 Use Python to parse authentication logs and detect brute-force login attempts.  
